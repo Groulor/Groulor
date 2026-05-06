@@ -4,6 +4,7 @@ Passionné par l'intersection entre **l'intelligence artificielle**, la **donné
 
 Ma Vision : 
 Mon approche est de concevoir des solutions **"End-to-End"** : de la compréhension du besoin métier sur le terrain (VCA, EDF) à la mise en production de modèles mathématiques et informatiques robustes.
+
 ---
 
 ### Expériences & Projets Clés
