@@ -16,16 +16,4 @@ Mon approche est de concevoir des solutions **"End-to-End"** : de la compréhens
 
 ---
 
-### Toolbox Technique
-
-| Domaine | Technologies & Méthodologies |
-| :--- | :--- |
-| **Data Science & AI** | Python, R, TensorFlow, Keras, Scikit-learn, Pandas, NumPy, Matplotlib/Seaborn. |
-| **Optimization & Research** | **Cplex / Gurobi**, Solveur Excel, Recherche Opérationnelle, Modèles statistiques, Prévisions de la demande. |
-| **Business & Automation** | **Power Platform** (Apps, Automate, Pages), Dataverse, SQL, VBA. |
-| **Industrial Engineering** | **CAO / FAO**, Réseaux de Petri, Gestion de flux et de stocks, Simulation d'événements discrets (DES). |
-| **Software Dev** | Langage C, Matlab / Octave, Scilab, HTML/CSS, JavaScript. |
-
----
-
 📫 **Me contacter :** [louis.butinpro@gmail.com](mailto:louis.butinpro@gmail.com) | [LinkedIn](https://www.linkedin.com/in/louis-butin/)
