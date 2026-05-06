@@ -15,16 +15,13 @@ Passionné par l'intersection entre **l'intelligence artificielle**, la **donné
 
 ### Toolbox Technique
 
-### 🛠️ Toolbox Technique
-
 | Domaine | Technologies & Méthodologies |
 | :--- | :--- |
-| **Data Science & AI** | [cite_start]Python [cite: 7][cite_start], R [cite: 7][cite_start], TensorFlow [cite: 16][cite_start], Keras [cite: 16][cite_start], Scikit-learn [cite: 16][cite_start], Pandas [cite: 16][cite_start], NumPy [cite: 16][cite_start], Matplotlib/Seaborn[cite: 16]. |
-| **Optimization & Research** | [cite_start]**Cplex / Gurobi** [cite: 15][cite_start], Solveur Excel [cite: 7][cite_start], Recherche Opérationnelle [cite: 6][cite_start], Modèles statistiques [cite: 6][cite_start], Prévisions de la demande[cite: 6]. |
-| **Business & Automation** | [cite_start]**Power Platform** (Apps, Automate [cite: 15][cite_start], Pages), Dataverse, SQL [cite: 7][cite_start], VBA[cite: 7]. |
-| **Industrial Engineering** | [cite_start]**CAO / FAO** [cite: 13][cite_start], Réseaux de Petri, Gestion de flux et de stocks [cite: 6][cite_start], Simulation d'événements discrets (DES)[cite: 21]. |
-| **Software Dev** | [cite_start]Langage C [cite: 7][cite_start], Matlab / Octave [cite: 7][cite_start], Scilab[cite: 7], HTML/CSS, JavaScript. |
-| **Languages** | [cite_start]Anglais (C1 - TOEIC) [cite: 24][cite_start], Espagnol (B2+ - SIELE) [cite: 25][cite_start], Chinois (Notions)[cite: 26]. |
+| **Data Science & AI** | Python, R, TensorFlow, Keras, Scikit-learn, Pandas, NumPy, Matplotlib/Seaborn. |
+| **Optimization & Research** | **Cplex / Gurobi**, Solveur Excel, Recherche Opérationnelle, Modèles statistiques, Prévisions de la demande. |
+| **Business & Automation** | **Power Platform** (Apps, Automate, Pages), Dataverse, SQL, VBA. |
+| **Industrial Engineering** | **CAO / FAO**, Réseaux de Petri, Gestion de flux et de stocks, Simulation d'événements discrets (DES). |
+| **Software Dev** | Langage C, Matlab / Octave, Scilab, HTML/CSS, JavaScript. |
 
 ---
 
